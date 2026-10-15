@@ -24,8 +24,6 @@ This project fulfills all four required mobile application criteria:
 
 ## Tech Stack
 
-## Tech Stack
-
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
